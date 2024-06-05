@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente estou estudando Python e começando os estudos em Django.<br>Posto alguns projetos pessoais que venho desenvolvendo.<br>Email para contato: fhora93@gmail.com<br><br>
+Estagiário na Uol Compass.<br>Esutdando Java/SpringBoot e Python<br>Posto alguns projetos pessoais que venho desenvolvendo.<br>Email para contato: fhora93@gmail.com<br><br>
 
 
 ## 🌐 Socials:
