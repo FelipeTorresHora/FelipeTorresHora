@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Desenolvo aplicações em Java e Python<br>Posto alguns projetos pessoais que venho desenvolvendo.<br>Email para contato: fhora93@gmail.com<br><br>
+<br>Desenvolvo aplicações Backend em Python e Java<br>Posto alguns projetos pessoais que venho desenvolvendo.<br>Email para contato: fhora93@gmail.com<br><br>
 
 
 ## 🌐 Socials:
