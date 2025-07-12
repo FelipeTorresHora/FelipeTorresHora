@@ -20,7 +20,7 @@ Databases: PostgreSQL, MySQL, MongoDB<br>
 </a>
 
 # 🌱 Current Learning
-Advanced Machine Learning techniques
+Advanced Machine Learning techniques<br>
 Pipeline with AI agents
 
 ### ✍️ Random Dev Quote
